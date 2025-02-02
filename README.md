@@ -20,3 +20,4 @@
 | 2024 | [webserver](https://github.com/1LisaW/webserver) | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) | simple C-based web server implementation that supports handling HTTP requests and serving static files. |
 | 2024 | [miniRT](https://github.com/1LisaW/miniRT) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | simple C based ray tracing project |
 | 2023 | [minishell](https://github.com/1LisaW/minishell) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | simple shell implementation in C that mimics the behavior of a Unix shell |
+| 2022 | [project-management-app](https://github.com/1LisaW/project-management-app-team2) | ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white) | Angular Project managment app |
