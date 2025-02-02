@@ -21,3 +21,4 @@
 | 2024 | [miniRT](https://github.com/1LisaW/miniRT) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | simple C based ray tracing project |
 | 2023 | [minishell](https://github.com/1LisaW/minishell) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | simple shell implementation in C that mimics the behavior of a Unix shell |
 | 2022 | [project-management-app](https://github.com/1LisaW/project-management-app-team2) | ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white) | Angular Project managment app |
+| 2022 | [RSLang]([RSLang](https://github.com/1LisaW/rslang)) | ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) | project application for learning 4000 essential english words. |
