@@ -14,8 +14,8 @@
 ### 🖥️ Major Projects
 <!-- table -->
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-| Year | Title                                    | Technologies                           |
-|------|------------------------------------------|----------------------------------------|
-| 2025 | [inception](https://github.com/1LisaW/inception) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white) |
-| 2024 | [webserver](https://github.com/1LisaW/webserver) | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) |
-| 2024 | [miniRT](https://github.com/1LisaW/miniRT) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) |
+| Year | Title                                    | Technologies                           | Description                            |
+|------|------------------------------------------|----------------------------------------|----------------------------------------|
+| 2025 | [inception](https://github.com/1LisaW/inception) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white) | small infrastructure composed of different services under specific rules with a help of Docker |
+| 2024 | [webserver](https://github.com/1LisaW/webserver) | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) | simple C-based web server implementation that supports handling HTTP requests and serving static files. |
+| 2024 | [miniRT](https://github.com/1LisaW/miniRT) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | simple C based ray tracing project |
