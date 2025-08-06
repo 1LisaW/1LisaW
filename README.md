@@ -1,7 +1,7 @@
 ## Hi there, I'm Tatyana 👋
 
-- 🔭 I'm currently finishing my computer science studies at the 42 Schule Berlin.
-- 🌱 I'm currently working on improving my skills in the Angular and C++ programming languages.
+🔭 I’ve completed my computer science studies at 42 Schule Berlin.
+🌱 Currently sharpening my skills in React and learning Java.
 - 👯 Interested in frontend and backend development
 - 💬 Open for internship, part-time or full-time opportunities.
 
