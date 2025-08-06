@@ -6,9 +6,9 @@
 - 💬 Open for internship, part-time or full-time opportunities.
 
 
-![Top Langs](https://github-readme-stats-eta-ochre-83.vercel.app/api/top-langs/?username=1LisaW&langs_count=14&hide=Roff&exclude_repo=repo1,repo2&layout=compact)
-<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1LisaW&langs_count=14&layout=compact)
+<!--
+![Top Langs](https://github-readme-stats-eta-ochre-83.vercel.app/api/top-langs/?username=1LisaW&langs_count=14&hide=Roff&exclude_repo=repo1,repo2&layout=compact)
 -->
 
 ### 🖥️ Major Projects
